@@ -1,0 +1,9 @@
+#substitles p{
+    font-family: arial;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: relative;
+    text-transform: uppercase;
+    top: 25px;
+}
