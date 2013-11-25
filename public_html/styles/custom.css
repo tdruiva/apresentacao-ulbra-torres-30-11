@@ -8,6 +8,12 @@
     top: 25px;
 }
 .autoplay{}
-div[id^=slide-] img{
+div.slide img:not(.banner){
     width: 300px;
+}
+.right{
+    margin-right: -100px;
+}
+#conectados h2{
+    font-size: 36px;
 }
